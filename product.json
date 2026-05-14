@@ -1,0 +1,28 @@
+{
+  "name": "AI Prompt 优化器",
+  "id": "ai-prompt-optimizer",
+  "version": "1.0.0",
+  "description": "自动评分+多轮优化+A/B对比+模板注入，让Prompt效果提升10倍",
+  "author": "wynn2025",
+  "pricing": {
+    "basic": 29,
+    "pro_with_api": 49,
+    "currency": "CNY"
+  },
+  "features": [
+    "5维度智能评分（清晰度/具体性/上下文/约束/可执行性）",
+    "多轮自动优化，反复迭代直到达标",
+    "9种角色模板（程序员/分析师/写作者/产品经理等）",
+    "5种结构模板（标准/编程/分析/写作/审查）",
+    "A/B对比模式",
+    "DeepSeek API增强优化",
+    "批量处理模式",
+    "交互式/命令行双模式"
+  ],
+  "github": "https://github.com/wynn2025/ai-prompt-optimizer",
+  "release": "https://github.com/wynn2025/ai-prompt-optimizer/releases/tag/v1.0.0",
+  "tags": ["AI", "Prompt", "优化器", "ChatGPT", "DeepSeek", "评分"],
+  "category": "AI开发工具",
+  "dependencies": [],
+  "python_version": ">=3.7"
+}
